@@ -5,14 +5,14 @@
         <link>https://labidiaymen.github.io/sustain-docs/blog</link>
         <description>The best place to stay up-to-date with the latest Sustain news and events.</description>
         <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
         <image>
             <title>Sustain Blog</title>
             <url>https://labidiaymen.github.io/sustain-docs/img/logo.png</url>
             <link>https://labidiaymen.github.io/sustain-docs/blog</link>
         </image>
-        <copyright>Copyright © 2020Labidi Aymen</copyright>
+        <copyright>Copyright © 2020 Labidi Aymen</copyright>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
             <link>https://labidiaymen.github.io/sustain-docs/blog/2017/10/24/new-version-1.0.0.html</link>
